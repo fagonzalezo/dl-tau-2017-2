@@ -1,0 +1,17 @@
+title: Advanced Natural Language Processing (COSC 7336)
+description: Introduction to Deep Learning for Text Analysis and Understanding, University of Houston 2017-2
+sitename: COSC 7336 2017-2
+baseurl: '/dl-tau-2017-2'
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+collections:
+  - features
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CNAME
+  - Gemfile.bak
+  - .bundle
