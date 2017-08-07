@@ -72,6 +72,7 @@ image:
 				<td>
 				</td>
 				<td>
+				Assignment 1 Due<br>
 				Assignment 2
 				</td>
 			</tr>
