@@ -7,12 +7,11 @@ image:
 ---
 
 ### Instructors
-Thamar Solorio
 
-* University of Houston*
+[Thamar Solorio](http://solorio.uh.edu/)  
+*The University of Houston*
 
 [Fabio A. González](http://dis.unal.edu.co/~fgonza/)  
-  
 *Universidad Nacional de Colombia*
 
 ### Course goal
