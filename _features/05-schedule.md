@@ -40,7 +40,8 @@ image:
 				<td>
 				</td>
 				<td>
-				Assignment 1 Due date: Sept. 29th
+				Assignment 1 <br> 
+				Due date: Sept. 29th
 				</td>
 			</tr>
 
@@ -72,7 +73,8 @@ image:
 				<td>
 				</td>
 				<td>
-				Assignment 2 Due date: Oct. 20th 
+				Assignment 2<br>
+				Due date: Oct. 20th 
 				</td>
 			</tr>
 
@@ -94,7 +96,8 @@ image:
 				</td>
 				<td>
 				</td>
-				<td>
+				<td>Final project proposal<br>
+				Due date: Oct. 27th
 				</td>
 			</tr>
 
@@ -104,7 +107,8 @@ image:
 				<td>
 				</td>
 				<td>
-				Assignment 3 Due date: Nov. 10th
+				Assignment 3<br> 
+				Due date: Nov. 10th
 				</td>
 			</tr>
 
@@ -114,7 +118,6 @@ image:
 				<td>
 				</td>
 				<td>
-				Final project proposal due
 				</td>
 			</tr>
 
@@ -150,7 +153,8 @@ image:
 				<td>Final project presentations</td>
 				<td>
 				</td>
-				<td>
+				<td>Final project report<br>
+				Due date Dec. 7th
 				</td>
 			</tr>
 
