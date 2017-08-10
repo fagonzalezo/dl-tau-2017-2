@@ -6,8 +6,9 @@ subheading:
 image: 
 ---
 
-* Assignments 45% (15% each)
-* Midterm 25%
-* Final project 30%
+* Assignments 45% (3 X 15%)
+* Midterm 20%
+* Paper presentation 10%
+* Final project 25%
 
 Grades
