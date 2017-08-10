@@ -6,7 +6,7 @@ subheading:
 image: 
 ---
 
-The course has two main axis: the first has to do with the problem which is text analysis and understanding, and the second with the methods to address this problem which are based on neural networks in general, and deep learning in particular. The concrete topics that we plan to address during the course, on both axis, are the following:
+The course has two main axes: the first has to do with the problem which is text analysis and understanding, and the second with the methods to address this problem which are based on neural networks in general, and deep learning in particular. The concrete topics that we plan to address during the course, on both axes, are the following:
 
 * Deep learning (DL): 
   * Review of machine learning and neural networks fundamental concepts
@@ -21,7 +21,7 @@ The course has two main axis: the first has to do with the problem which is text
   * Review of natural language processing and analysis fundamental concepts.
   * Word level semantics
   * Text classification: sentiment analysis, author profiling, author identification, text categorization
-  * Language model
-  * Conditional language models: summarization, translation, image captioning
-  * Text Similarity: community question answering, paraphrase detection, text entailment
+  * Language model: OCR output correction
+  * Conditional language models: summarization 
+  * Text Similarity: community question answering
 
