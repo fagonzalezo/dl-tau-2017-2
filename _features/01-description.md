@@ -15,7 +15,7 @@ image:
 *Universidad Nacional de Colombia*
 
 ### Course Syllabus
-[Syllabus](/COSC%207336%20Fall%202017%20syllabus.pdf)
+[Syllabus](COSC%207336%20Fall%202017%20syllabus.pdf)
 
 ### Course goal
 The goal of the course is to study deep learning models, i.e. neural networks with several layers,  and their application to solve challenging natural language analysis problems. The course will cover the  foundations of deep learning models as well as the practical issues associated with their design, implementation, training and deployment. A hands-on approach will be used through the course focused on solving different text analysis and understanding tasks motivated by real world problems. 
