@@ -20,8 +20,10 @@ image:
 				<td>Introduction to DL and NLP</td>
 				<td>
 				</td>
+				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/quickIntro2NN.ipynb">Assignment 0</a>
 				<td>
-				Assignment 0
+				<a href= "assign0.pdf">Assignment 0</a><br>
+				Due date: Sept. 8th
 				</td>
 			</tr>
 			<tr>
