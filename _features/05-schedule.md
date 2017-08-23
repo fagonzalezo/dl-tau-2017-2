@@ -19,8 +19,8 @@ image:
 			<td>Aug 25th</td>
 				<td>Introduction to DL and NLP</td>
 				<td>
+				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/quickIntro2NN.ipynb">NN notebook</a>
 				</td>
-				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/quickIntro2NN.ipynb">Assignment 0</a>
 				<td>
 				<a href= "assign0.pdf">Assignment 0</a><br>
 				Due date: Sept. 8th
