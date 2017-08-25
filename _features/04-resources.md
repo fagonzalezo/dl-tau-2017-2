@@ -5,6 +5,8 @@ heading: Course resources
 subheading: 
 image: 
 ---
+### Computing Resources
+Thanks to the generous sponsorship of Microsoft Research, the course will have access to the cloud platform Azure to support experimentation for the assignments. More information about this will become available soon.
 
 ### References and resources
 
