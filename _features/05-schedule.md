@@ -16,7 +16,7 @@ image:
 		</tr>
 		<small>
 			<tr>
-			<td>Aug 25th</td>
+			<td>Sep 8th</td>
 				<td>Introduction to DL and NLP</td>
 				<td>
 				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/quickIntro2NN.ipynb">NN notebook</a>
@@ -27,7 +27,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-			<td>Sep 1st</td>
+			<td>Sep 15th</td>
 				<td>Word level semantics <br>
 				Neural embedding models</td>
 				<td>
@@ -37,7 +37,7 @@ image:
 			</tr>
 
 			<tr>
-			<td>Sep 8th</td>
+			<td>Sep 22nd</td>
 				<td>Neural network training</td>
 				<td>
 				</td>
@@ -48,7 +48,7 @@ image:
 			</tr>
 
 			<tr>
-			<td>Sep 15th</td>
+			<td>Sep 29th</td>
 				<td>Text classification <br>
                     Convolutional neural networks
 				</td>
@@ -59,7 +59,7 @@ image:
 			</tr>
 
 			<tr>
-			<td>Sept 22nd</td>
+			<td>Oct 6th</td>
 				<td>Deep learning frameworks</td>
 				<td>
 				</td>
@@ -68,7 +68,7 @@ image:
 			</tr>
 
 			<tr>
-			<td>Sep 29th</td>
+			<td>Oct 13th</td>
 				<td>Language models <br>
 				Recurrent Neural Networks
 				</td>
@@ -81,7 +81,7 @@ image:
 			</tr>
 
 			<tr>
-			<td>Oct 6th</td>
+			<td>Oct 20th</td>
 				<td>Conditional language model <br>
 				Neural Attention models
 				</td>
@@ -92,31 +92,10 @@ image:
 			</tr>
 
 			<tr>
-			<td>Oct 13th</td>
+			<td>Oct 27th</td>
 				<td>Textual similarity<br>
 				Neural textual similarity models
 				</td>
-				<td>
-				</td>
-				<td>Final project proposal<br>
-				Due date: Oct. 27th
-				</td>
-			</tr>
-
-			<tr>
-			<td>Oct 20th</td>
-				<td></td>
-				<td>
-				</td>
-				<td>
-				Assignment 3<br> 
-				Due date: Nov. 10th
-				</td>
-			</tr>
-
-			<tr>
-			<td>Oct 27th</td>
-				<td></td>
 				<td>
 				</td>
 				<td>
@@ -125,38 +104,42 @@ image:
 
 			<tr>
 			<td>Nov 3rd</td>
-				<td></td>
+				<td>Midterm Exam</td>
 				<td>
 				</td>
 				<td>
+				Assignment 3<br> 
+				Due date: Nov. 17th
 				</td>
 			</tr>
 
 			<tr>
 			<td>Nov 10th</td>
-				<td></td>
+				<td>Reinforcement learning</td>
 				<td>
 				</td>
-				<td>
+				<td>Final project proposal<br>
+				Due date: Nov 10th
 				</td>
 			</tr>
 
 			<tr>
 			<td>Nov 17th</td>
-				<td></td>
+				<td>Multimodal learning</td>
 				<td>
 				</td>
 				<td>
 				</td>
-			</tr>
+			</tr>			
 
 			<tr>
-			<td>Dec 1st</td>
-				<td>Final project presentations</td>
+			<td>Dec 11th</td>
+				<td>Final project presentations<br>
+				Poster madness
+				</td>
 				<td>
 				</td>
-				<td>Final project report<br>
-				Due date Dec. 7th
+				<td>Final project report due<br>
 				</td>
 			</tr>
 
