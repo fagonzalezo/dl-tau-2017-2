@@ -23,7 +23,7 @@ image:
 				</td>
 				<td>
 				<a href= "assign0.pdf">Assignment 0</a><br>
-				Due date: Sept. 8th
+				Due date: Sept. 22nd
 				</td>
 			</tr>
 			<tr>
@@ -43,7 +43,7 @@ image:
 				</td>
 				<td>
 				Assignment 1 <br> 
-				Due date: Sept. 29th
+				Due date: Oct. 13th
 				</td>
 			</tr>
 
@@ -76,7 +76,7 @@ image:
 				</td>
 				<td>
 				Assignment 2<br>
-				Due date: Oct. 20th 
+				Due date: Nov 3rd 
 				</td>
 			</tr>
 
@@ -139,7 +139,8 @@ image:
 				</td>
 				<td>
 				</td>
-				<td>Final project report due<br>
+				<td>Final project report <br>
+				Due date: Dec 11th
 				</td>
 			</tr>
 
