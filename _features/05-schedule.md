@@ -135,7 +135,7 @@ image:
 			<tr>
 			<td>Dec 11th</td>
 				<td>Final project presentations<br>
-				Poster madness
+				Poster madness (5:00pm - 8:00pm)
 				</td>
 				<td>
 				</td>
