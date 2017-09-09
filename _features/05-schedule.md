@@ -19,7 +19,10 @@ image:
 			<td>Sep 8th</td>
 				<td>Introduction to DL and NLP</td>
 				<td>
-				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/quickIntro2NN.ipynb">NN notebook</a>
+				<a href= "lecture1_slides.pdf">Lecture 1 slides</a><br>
+				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/quickIntro2NN.ipynb">NN notebook</a><br>
+				Reading material:<br>
+				[GBC2016] Chap 1, 2, 3
 				</td>
 				<td>
 				<a href= "assign0.pdf">Assignment 0</a><br>
@@ -31,6 +34,9 @@ image:
 				<td>Word level semantics <br>
 				Neural embedding models</td>
 				<td>
+				Reading material:<br>
+				[JM2017] Chap 15, 16 <br>
+				[R2014], [MSCCD13], [AMLS17]
 				</td>
 				<td>
 				</td>
@@ -38,8 +44,11 @@ image:
 
 			<tr>
 			<td>Sep 22nd</td>
-				<td>Neural network training</td>
+				<td>ML background<br>
+				Neural network training</td>
 				<td>
+				Reading material:<br>
+				[GBC2016] Chap 5, 6
 				</td>
 				<td>
 				Assignment 1 <br> 
@@ -53,6 +62,10 @@ image:
                     Convolutional neural networks
 				</td>
 				<td>
+				Reading material:<br>
+				[GBC2016] Chap 9 <br>
+				[JM2017] Chap 6<br>		
+				[MAMGS17], [DNEL17], [YYDHSH16]
 				</td>
 				<td>
 				</td>
@@ -73,6 +86,9 @@ image:
 				Recurrent Neural Networks
 				</td>
 				<td>
+				Reading material:<br>
+				[GBC2016] Chap 10<br>
+				[JM2017] Chap 8<br>		
 				</td>
 				<td>
 				Assignment 2<br>
@@ -86,6 +102,9 @@ image:
 				Neural Attention models
 				</td>
 				<td>
+				Reading material:<br>
+				[GBC2016] Chap 10<br>
+				[JM2017] Chap 8<br>	
 				</td>
 				<td>
 				</td>
