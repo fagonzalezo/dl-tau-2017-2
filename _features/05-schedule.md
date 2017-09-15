@@ -31,9 +31,10 @@ image:
 			</tr>
 			<tr>
 			<td>Sep 15th</td>
-				<td>Word level semantics <br>
+				<td> Approximating semantics <br>
 				Neural embedding models</td>
 				<td>
+				<a href= "lecture2_slides.pdf">Lecture 2 slides</a><br>
 				Reading material:<br>
 				[JM2017] Chap 15, 16 <br>
 				[R2014], [MSCCD13], [AMLS17]
