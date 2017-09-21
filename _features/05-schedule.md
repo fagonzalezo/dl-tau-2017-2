@@ -52,7 +52,7 @@ image:
 				[GBC2016] Chap 5, 6
 				</td>
 				<td>
-				Assignment 1 <br> 
+				<a ref="https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/dl-tau-assign2.pdf"> Assignment 1 </a><br>                          <a ref="https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/assign1-nn-word2vec.ipynb"> Assign 1 Notebook </a><br> 
 				Due date: Oct. 13th
 				</td>
 			</tr>
