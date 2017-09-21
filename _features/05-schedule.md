@@ -51,7 +51,8 @@ image:
 				[GBC2016] Chap 5, 6
 				</td>
 				<td>
-				<a ref="dl-tau-assig1.pdf"> Assignment 1 </a><br>                          <a ref="assign1-nn-word2vec.ipynb"> Assign 1 Notebook </a><br> 
+				<a ref="assign1.pdf"> Assignment 1 </a><br>                          
+			        <a ref="assign1-nn-word2vec.ipynb"> Assign 1 Notebook </a><br> 
 				Due date: Oct. 13th
 				</td>
 			</tr>
