@@ -35,6 +35,7 @@ image:
 				Neural embedding models</td>
 				<td>
 				<a href= "lecture2_slides.pdf">Lecture 2 slides</a><br>
+				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/word2vec_demo.ipynb">NN notebook</a>
 				Reading material:<br>
 				[JM2017] Chap 15, 16 <br>
 				[R2014], [MSCCD13], [AMLS17]
