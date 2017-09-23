@@ -48,6 +48,9 @@ image:
 				<td>ML background<br>
 				Neural network training</td>
 				<td>
+				<a href= "lecture3_slides.pdf">Lecture 2 slides</a><br>
+				Reading material:<br>
+				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/perceptron-training.ipynb">Perceptron Training Notebook</a><br>
 				Reading material:<br>
 				[GBC2016] Chap 5, 6
 				</td>
