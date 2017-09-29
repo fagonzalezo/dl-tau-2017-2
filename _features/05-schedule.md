@@ -66,6 +66,7 @@ image:
 				<td>
 				<a href= "lecture4_slides.pdf">Lecture 4 slides</a><br>
 				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/TensorFlow_handout.ipynb">TensorFlow Handout Notebook</a><br>
+				<a href = "https://www.dropbox.com/s/7fqe3m4brznjks5/FastGuide.pdf?dl=0">Azure VM Handout</a><br>
 				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Keras_handout.ipynb">Keras Handout Notebook</a><br>
 
 				</td>
