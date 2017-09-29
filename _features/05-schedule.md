@@ -49,20 +49,33 @@ image:
 				Neural network training</td>
 				<td>
 				<a href= "lecture3_slides.pdf">Lecture 3 slides</a><br>
-				Reading material:<br>
 				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/perceptron-training.ipynb">Perceptron Training Notebook</a><br>
 				Reading material:<br>
 				[GBC2016] Chap 5, 6
 				</td>
 				<td>
 				<a href="assign1.pdf"> Assignment 1 </a><br>                          
-			        <a href="https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/assign1-nn-word2vec.ipynb"> Assign 1 Notebook </a><br> 
+			     <a href="https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/assign1-nn-word2vec.ipynb"> Assign 1 Notebook </a><br> 
 				Due date: Oct. 13th
 				</td>
 			</tr>
 
 			<tr>
 			<td>Sep 29th</td>
+				<td>Deep learning frameworks</td>
+				<td>
+				<a href= "lecture4_slides.pdf">Lecture 4 slides</a><br>
+				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/TensorFlow_handout.ipynb">TensorFlow Handout Notebook</a><br>
+				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Keras_handout.ipynb">Keras Handout Notebook</a><br>
+
+				</td>
+				<td>
+			     <a href="https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/In-class-assign-2.ipynb">In-class Assignment 2 Notebook </a><br> 
+				</td>
+			</tr>
+
+			<tr>
+			<td>Oct 6th</td>
 				<td>Text classification <br>
                     Convolutional neural networks
 				</td>
@@ -71,15 +84,6 @@ image:
 				[GBC2016] Chap 9 <br>
 				[JM2017] Chap 6<br>		
 				[MAMGS17], [DNEL17], [YYDHSH16]
-				</td>
-				<td>
-				</td>
-			</tr>
-
-			<tr>
-			<td>Oct 6th</td>
-				<td>Deep learning frameworks</td>
-				<td>
 				</td>
 				<td>
 				</td>
