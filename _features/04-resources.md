@@ -8,14 +8,33 @@ image:
 ### Computing Resources
 Thanks to the generous sponsorship of Microsoft Research, the course will have access to the cloud platform Azure to support experimentation for the assignments. More information about this will become available soon.
 
-### Resources
+### Courses
 
 * [NLPDL-Stanford] [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/), Stanford University, Spring 2017
 * [DLNLP-Oxford] [Deep Learning for Natural Language Processing: 2016-2017](https://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/), University of Oxford, 2016-2017
 * [DLNLP-UCSB] [CS292F: Deep Learning for NLP](http://william.cs.ucsb.edu/courses/index.php/Spring_2017_CS292F_Deep_Learning_for_NLP), University of California at Santa Barbara, Spring 2017
 
-### References
+### Tools
 
+* [TensorFlow](https://www.tensorflow.org/): An open-source software library for Machine Intelligence
+  * [Installation](https://www.tensorflow.org/install/)
+  * [Getting started](https://www.tensorflow.org/get_started/)
+  * [TensorBoard](https://www.tensorflow.org/get_started/summaries_and_tensorboard)
+  * [Programmer's Guide](https://www.tensorflow.org/programmers_guide/?nav=true)
+  * [Vector Representations of Words](https://www.tensorflow.org/tutorials/word2vec)
+  * [Recurrent NNs](https://www.tensorflow.org/tutorials/recurrent)
+  * [Sequence-to-Sequence Models](https://www.tensorflow.org/tutorials/seq2seq)
+* [Keras](https://keras.io/): The Python Deep Learning library
+  * [Installation](https://keras.io/#installation)
+  * [Getting started](https://keras.io/getting-started/sequential-model-guide/)
+  * [Text preprocessing](https://keras.io/preprocessing/text/)
+  * [Pre-trained word embeddings in Keras](https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html)
+  * [Classifying Yelp Reviews](http://www.developintelligence.com/blog/2017/06/practical-neural-networks-keras-classifying-yelp-reviews/)
+  * [Keras language modeling](https://github.com/codekansas/keras-language-modeling)
+  * [Using Keras as part of a TensorFlow workflow](https://github.com/fchollet/keras-resources)
+  * [More Keras resources](https://github.com/fchollet/keras-resources)
+
+### References
 
 *  **Text Book:** [Goodfellow2016]  Goodfellow, I., Bengio, Y., & Courville, A. (2016). [Deep learning](http://www.deeplearningbook.org/). MIT Press.
 * **Text Book:** [JM2017] Jurafsky,  D. and  Martin, J. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/), 3rd edition draft Chapters.
