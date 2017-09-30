@@ -69,7 +69,7 @@ image:
 				<a href= "https://www.dropbox.com/s/7fqe3m4brznjks5/FastGuide.pdf?dl=0">Azure VM Handout</a><br>
 				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Keras_handout.ipynb">Keras Handout Notebook</a><br>
 				Reading material:<br>
-				Check tools section in <a href= "04-resources">Resources</a><br>
+				Check tools section in <a href= "#/features/04-resources">Resources</a><br>
 				</td>
 				<td>
 			     <a href="https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/In-class-assign-2.ipynb">In-class Assignment 2 Notebook </a><br> 
