@@ -85,7 +85,7 @@ image:
 				Reading material:<br>
 				[GBC2016] Chap 9 <br>
 				[JM2017] Chap 6<br>		
-				[MAMGS17], [DNEL17], [YYDHSH16]
+	                        [DNEL17], [YYDHSH16]
 				</td>
 				<td>
 				</td>
