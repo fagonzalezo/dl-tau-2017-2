@@ -82,12 +82,15 @@ image:
                     Convolutional neural networks
 				</td>
 				<td>
+				<a href= "lecture5_slides.pdf">Lecture 5 slides</a><br>
+				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Handout-CNN-sentence-classification.ipynb">CNN Sentence Classification Handout Notebook</a><br>
 				Reading material:<br>
 				[GBC2016] Chap 9 <br>
 				[JM2017] Chap 6<br>		
 	                        [DNEL17], [YYDHSH16]
 				</td>
 				<td>
+			     <a href="https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/In-class-assign-3.ipynb">In-class Assignment 3 Notebook </a><br> 
 				</td>
 			</tr>
 
