@@ -87,7 +87,7 @@ image:
 				Reading material:<br>
 				[GBC2016] Chap 9 <br>
 				[JM2017] Chap 6<br>		
-	                        [DNEL17], [YYDHSH16]
+	                        [DNEL17], [YYDHSH16], [K2014],[SSGRMS17]
 				</td>
 				<td>
 			     <a href="https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/In-class-assign-3.ipynb">In-class Assignment 3 Notebook </a><br> 
