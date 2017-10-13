@@ -111,9 +111,18 @@ image:
 				Due date: Nov 3rd 
 				</td>
 			</tr>
+
+			<tr>
+			<td>Oct 20th</td>
+				<td>Cancelled due to Mid-Semester Bash</td>
+				<td>
+				</td>
+				<td>
+				</td>
+			</tr>
 		
 			<tr>
-			<td>Nov 3rd</td>
+			<td>Oct 27th</td>
 				<td>Midterm Exam</td>
 				<td>
 				</td>
@@ -145,22 +154,22 @@ image:
 				<td>
 				</td>
 				<td>
-				</td>
-			</tr>
-
-
-			<tr>
-			<td>Nov 10th</td>
-				<td>Reinforcement learning</td>
-				<td>
-				</td>
 				<td>Final project proposal<br>
 				Due date: Nov 10th
 				</td>
 			</tr>
 
+
 			<tr>
 			<td>Nov 17th</td>
+				<td>Reinforcement learning</td>
+				<td>
+				</td>
+				</td>
+			</tr>
+
+			<tr>
+			<td>Dec 1st</td>
 				<td>Multimodal learning</td>
 				<td>
 				</td>
