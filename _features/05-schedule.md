@@ -101,7 +101,7 @@ image:
 				</td>
 				<td>
 				<a href= "lecture6_slides.pdf">Lecture 6 slides</a><br>
-				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Handout-LSTM-language-model.ipynb">CNN Sentence Classification Handout Notebook</a><br>
+				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Handout-LSTM-language-model.ipynb">LSTM Language Model Handout Notebook</a><br>
 				Reading material:<br>
 				[GBC2016] Chap 10<br>
 				[JM2017] Chap 8<br>		
