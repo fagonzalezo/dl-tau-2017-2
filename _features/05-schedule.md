@@ -100,6 +100,8 @@ image:
 				Recurrent Neural Networks
 				</td>
 				<td>
+				<a href= "lecture6_slides.pdf">Lecture 6 slides</a><br>
+				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Handout-LSTM-language-model.ipynb">CNN Sentence Classification Handout Notebook</a><br>
 				Reading material:<br>
 				[GBC2016] Chap 10<br>
 				[JM2017] Chap 8<br>		
@@ -109,9 +111,18 @@ image:
 				Due date: Nov 3rd 
 				</td>
 			</tr>
+		
+			<tr>
+			<td>Nov 3rd</td>
+				<td>Midterm Exam</td>
+				<td>
+				</td>
+				<td>
+				</td>
+			</tr>
 
 			<tr>
-			<td>Oct 20th</td>
+			<td>Nov 3rd</td>
 				<td>Conditional language model <br>
 				Neural Attention models
 				</td>
@@ -121,11 +132,13 @@ image:
 				[JM2017] Chap 8<br>	
 				</td>
 				<td>
+				Assignment 3<br> 
+				Due date: Nov. 17th
 				</td>
 			</tr>
 
 			<tr>
-			<td>Oct 27th</td>
+			<td>Nov 10th</td>
 				<td>Textual similarity<br>
 				Neural textual similarity models
 				</td>
@@ -135,16 +148,6 @@ image:
 				</td>
 			</tr>
 
-			<tr>
-			<td>Nov 3rd</td>
-				<td>Midterm Exam</td>
-				<td>
-				</td>
-				<td>
-				Assignment 3<br> 
-				Due date: Nov. 17th
-				</td>
-			</tr>
 
 			<tr>
 			<td>Nov 10th</td>
