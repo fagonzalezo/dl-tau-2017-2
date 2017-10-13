@@ -148,14 +148,13 @@ image:
 
 			<tr>
 			<td>Nov 10th</td>
-				<td>Textual similarity<br>
-				Neural textual similarity models
+				<td>
+				  Textual similarity<br>
+				  Neural textual similarity models
 				</td>
 				<td>
-				</td>
-				<td>
-				<td>Final project proposal<br>
-				Due date: Nov 10th
+				  Final project proposal<br>
+				  Due date: Nov 10th
 				</td>
 			</tr>
 
