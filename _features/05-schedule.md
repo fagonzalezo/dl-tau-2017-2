@@ -153,6 +153,8 @@ image:
 				  Neural textual similarity models
 				</td>
 				<td>
+				</td>
+				<td>
 				  Final project proposal<br>
 				  Due date: Nov 10th
 				</td>
@@ -164,6 +166,7 @@ image:
 				<td>Reinforcement learning</td>
 				<td>
 				</td>
+				<td>
 				</td>
 			</tr>
 
