@@ -137,6 +137,7 @@ image:
 				</td>
 				<td>
 				Reading material:<br>
+				[JM2017] Chap 4<br>
 				[GBC2016] Chap 10<br>
 				[JM2017] Chap 8<br>	
 				</td>
