@@ -104,7 +104,7 @@ image:
 				<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Handout-LSTM-language-model.ipynb">LSTM Language Model Handout Notebook</a><br>
 				Reading material:<br>
 				[GBC2016] Chap 10<br>
-				[JM2017] Chap 8<br>		
+				[JM2017] Chap 4, 8<br>		
 				</td>
 				<td>
 				Assignment 2<br>
@@ -137,7 +137,6 @@ image:
 				</td>
 				<td>
 				Reading material:<br>
-				[JM2017] Chap 4<br>
 				[GBC2016] Chap 10<br>
 				[JM2017] Chap 8<br>	
 				</td>
