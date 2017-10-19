@@ -107,8 +107,8 @@ image:
 				[JM2017] Chap 4, 8<br>		
 				</td>
 				<td>
-				Assignment 2<br>
-				Due date: Nov 3rd 
+				<a href = "dl-tau-assign2.pdf">Assignment 2</a><br>
+				Due date: Nov 9th 
 				</td>
 			</tr>
 
