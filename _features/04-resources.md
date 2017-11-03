@@ -38,6 +38,7 @@ Thanks to the generous sponsorship of Microsoft Research, the course will have a
 
 *  **Text Book:** [Goodfellow2016]  Goodfellow, I., Bengio, Y., & Courville, A. (2016). [Deep learning](http://www.deeplearningbook.org/). MIT Press.
 * **Text Book:** [JM2017] Jurafsky,  D. and  Martin, J. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/), 3rd edition draft Chapters.
+* **Text Book:** [JM2008] Jurafsky,  D. and  Martin, J. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/), 2nd edition.
 * [AMLS17] Aguilar, G.,  Maharjan, S.,  Lopez Monroy, A.P.,  and  Solorio, T. A Multi-task Approach for Named Entity Recognition in Social Media Data. Proceedings of the 3rd Workshop on Noisy User-generated Text. Copenhagen, Denmark, pp 148-153. 2017. ([paper](http://noisy-text.github.io/2017/pdf/WNUT19.pdf))
 * [DNEL17] Derczynski, L., Nichols, E., van Erp, M. & Limsopatham, N. Results of the WNUT2017 Shared Task on Novel and
 Emerging Entity Recognition. In Proceedings of the 3rd Workshop on Noisy, User-generated Text (W-NUT) at EMNLP ([paper](http://www.derczynski.com/sheffield/papers/emerging-wnut.pdf))
