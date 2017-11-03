@@ -160,9 +160,7 @@ image:
 				</td>
 				<td>
 				  Final project proposal<br>
-				  Due date: Nov 10th
-				</td>
-				<td>
+				  Due date: Nov 10th<br>
 				Assignment 3<br> 
 				Due date: Dec. 17th
 				</td>
