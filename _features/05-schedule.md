@@ -183,14 +183,14 @@ image:
 			</tr>			
 
 			<tr>
-			<td>Dec 11th</td>
+			<td>Dec 8th</td>
 				<td>Final project presentations<br>
 				Poster madness (5:00pm - 8:00pm)
 				</td>
 				<td>
 				</td>
 				<td>Final project report <br>
-				Due date: Dec 11th
+				Due date: Dec 12th
 				</td>
 			</tr>
 
