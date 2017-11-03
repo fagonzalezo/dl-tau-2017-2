@@ -139,13 +139,14 @@ image:
 				<td>
 				<a href= "lecture7_slides.pdf">Lecture 7 slides</a><br>
 				<a href= "lecture7_seq2seq_slides.pdf">Seq2Seq models slides</a><br>
+				Use
 				Reading material:<br>
 				[GBC2016] Chap 10<br>
 				[JM2008] Chap 25<br>	
 				</td>
 				<td>
-				Assignment 3<br> 
-				Due date: Nov. 17th
+				Useful Links:<br> 
+				<a href="https://github.com/llSourcell/How_to_make_a_text_summarizer" Text Summarizer</a><br>
 				</td>
 			</tr>
 
@@ -160,6 +161,10 @@ image:
 				<td>
 				  Final project proposal<br>
 				  Due date: Nov 10th
+				</td>
+				<td>
+				Assignment 3<br> 
+				Due date: Dec. 17th
 				</td>
 			</tr>
 
