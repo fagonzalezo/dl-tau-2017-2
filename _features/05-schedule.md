@@ -137,6 +137,8 @@ image:
 				Neural Attention models
 				</td>
 				<td>
+				<a href= "lecture7_slides.pdf">Lecture 7 slides</a><br>
+				<a href= "lecture7_seq2seq_slides.pdf">Seq2Seq models slides</a><br>
 				Reading material:<br>
 				[GBC2016] Chap 10<br>
 				[JM2008] Chap 25<br>	
