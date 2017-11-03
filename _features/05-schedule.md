@@ -140,15 +140,13 @@ image:
 				<a href= "lecture7_slides.pdf">Lecture 7 slides</a><br>
 				<a href= "lecture7_seq2seq_slides.pdf">Seq2Seq models slides</a><br>
 			    <a href="https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Handout-seq2seq-translator.ipynb">Seq2Seq Translator Handout Notebook </a><br> 
-
-				Use
 				Reading material:<br>
 				[GBC2016] Chap 10<br>
 				[JM2008] Chap 25<br>	
+				Useful Links:<br>  
+				<a href="https://github.com/llSourcell/How_to_make_a_text_summarizer">How to make a text summarizer </a><br>
 				</td>
 				<td>
-				Useful Links:<br> 
-				<a href="https://github.com/llSourcell/How_to_make_a_text_summarizer" Text Summarizer</a><br>
 				</td>
 			</tr>
 
