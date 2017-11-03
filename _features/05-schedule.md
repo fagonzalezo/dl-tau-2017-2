@@ -139,6 +139,8 @@ image:
 				<td>
 				<a href= "lecture7_slides.pdf">Lecture 7 slides</a><br>
 				<a href= "lecture7_seq2seq_slides.pdf">Seq2Seq models slides</a><br>
+			    <a href="https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Handout-seq2seq-translator.ipynb">Seq2Seq Translator Handout Notebook </a><br> 
+
 				Use
 				Reading material:<br>
 				[GBC2016] Chap 10<br>
