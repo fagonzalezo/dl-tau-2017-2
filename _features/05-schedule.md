@@ -132,13 +132,14 @@ image:
 
 			<tr>
 			<td>Nov 3rd</td>
-				<td>Conditional language model <br>
+				<td>Machine Translation<br> 
+				Conditional language model <br>
 				Neural Attention models
 				</td>
 				<td>
 				Reading material:<br>
 				[GBC2016] Chap 10<br>
-				[JM2017] Chap 8<br>	
+				[JM2008] Chap 25<br>	
 				</td>
 				<td>
 				Assignment 3<br> 
