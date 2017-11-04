@@ -162,7 +162,7 @@ image:
 				  Final project proposal<br>
 				  Due date: Nov 10th<br>
 				Assignment 3<br> 
-				Due date: Dec. 17th
+				Due date: Dec. 1st
 				</td>
 			</tr>
 
