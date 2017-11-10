@@ -153,15 +153,14 @@ image:
 			<tr>
 			<td>Nov 10th</td>
 				<td>
-				  Textual similarity<br>
-				  Neural textual similarity models
+				  Paper presentations
 				</td>
 				<td>
 				</td>
 				<td>
 				  Final project proposal<br>
 				  Due date: Nov 10th<br>
-				Assignment 3<br> 
+				<a href= "dl-tau-extra.pdf">Extra Credit Assignment</a><br> 
 				Due date: Dec. 1st
 				</td>
 			</tr>
@@ -169,7 +168,7 @@ image:
 
 			<tr>
 			<td>Nov 17th</td>
-				<td>Reinforcement learning</td>
+				<td>Paper Presentations</td>
 				<td>
 				</td>
 				<td>
