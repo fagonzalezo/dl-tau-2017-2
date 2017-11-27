@@ -185,7 +185,8 @@ image:
 			</tr>			
 
 			<tr>
-			<td>Dec 8th</td>
+			<td><s>Dec 8th</s></td>
+				<td>Dec 11th</td>
 				<td>Final project presentations<br>
 				Poster madness (5:00pm - 8:00pm)
 				</td>
